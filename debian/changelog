@@ -1,3 +1,11 @@
+gruvbox-gtk (1.0.1-1) bionic; urgency=medium
+
+  [ Ken Gilmer ]
+  * Rename root directory of theme to Gruvbox for consistency w/ other GTK themes.
+  * Add gbp config for package management.
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Wed, 26 Aug 2020 20:41:57 -0700
+
 gruvbox-gtk (1.0-1) bionic; urgency=medium
 
   [ Ken Gilmer ]
